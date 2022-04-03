@@ -1,0 +1,150 @@
+[submodule "plugins/VapourSynth-AddGrain"]
+	path = plugins/VapourSynth-AddGrain
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-AddGrain.git
+[submodule "plugins/VapourSynth-Bilateral"]
+	path = plugins/VapourSynth-Bilateral
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Bilateral.git
+[submodule "plugins/VapourSynth-BM3D"]
+	path = plugins/VapourSynth-BM3D
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-BM3D.git
+[submodule "plugins/VapourSynth-Bwdif"]
+	path = plugins/VapourSynth-Bwdif
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Bwdif.git
+[submodule "plugins/vapoursynth-cnr2"]
+	path = plugins/vapoursynth-cnr2
+	url = https://github.com/dubhater/vapoursynth-cnr2.git
+[submodule "plugins/VapourSynth-CTMF"]
+	path = plugins/VapourSynth-CTMF
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-CTMF.git
+[submodule "plugins/d2vsource"]
+	path = plugins/d2vsource
+	url = https://github.com/dwbuiten/d2vsource.git
+[submodule "plugins/VapourSynth-DCTFilter"]
+	path = plugins/VapourSynth-DCTFilter
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-DCTFilter.git
+[submodule "plugins/VapourSynth-Deblock"]
+	path = plugins/VapourSynth-Deblock
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Deblock.git
+[submodule "plugins/VapourSynth-DeblockPP7"]
+	path = plugins/VapourSynth-DeblockPP7
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-DeblockPP7.git
+[submodule "plugins/VapourSynth-DeLogo"]
+	path = plugins/VapourSynth-DeLogo
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-DeLogo.git
+[submodule "plugins/VapourSynth-DFTTest"]
+	path = plugins/VapourSynth-DFTTest
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-DFTTest.git
+[submodule "plugins/vapoursynth-descale"]
+	path = plugins/vapoursynth-descale
+	url = https://github.com/Irrational-Encoding-Wizardry/vapoursynth-descale.git
+[submodule "plugins/EdgeFixer"]
+	path = plugins/EdgeFixer
+	url = https://github.com/sekrit-twc/EdgeFixer.git
+[submodule "plugins/VapourSynth-EEDI2"]
+	path = plugins/VapourSynth-EEDI2
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-EEDI2.git
+[submodule "plugins/VapourSynth-EEDI3"]
+	path = plugins/VapourSynth-EEDI3
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-EEDI3.git
+[submodule "plugins/vapoursynth-plugin"]
+	path = plugins/vapoursynth-plugin
+	url = https://github.com/AkarinVS/vapoursynth-plugin.git
+[submodule "plugins/neo_f3kdb"]
+	path = plugins/neo_f3kdb
+	url = https://github.com/HomeOfAviSynthPlusEvolution/neo_f3kdb.git
+[submodule "plugins/ffms2"]
+	path = plugins/ffms2
+	url = https://github.com/FFMS/ffms2.git
+[submodule "plugins/VapourSynth-FFT3DFilter"]
+	path = plugins/VapourSynth-FFT3DFilter
+	url = https://github.com/myrsloik/VapourSynth-FFT3DFilter.git
+[submodule "plugins/vapoursynth-fieldhint"]
+	path = plugins/vapoursynth-fieldhint
+	url = https://github.com/dubhater/vapoursynth-fieldhint.git
+[submodule "plugins/vapoursynth-fillborders"]
+	path = plugins/vapoursynth-fillborders
+	url = https://github.com/dubhater/vapoursynth-fillborders.git
+[submodule "plugins/fmtconv"]
+	path = plugins/fmtconv
+	url = https://github.com/EleonoreMizo/fmtconv.git
+[submodule "plugins/vapoursynth-histogram"]
+	path = plugins/vapoursynth-histogram
+	url = https://github.com/dubhater/vapoursynth-histogram.git
+[submodule "plugins/vapoursynth-hqdn3d"]
+	path = plugins/vapoursynth-hqdn3d
+	url = https://github.com/Hinterwaeldlers/vapoursynth-hqdn3d.git
+[submodule "plugins/KNLMeansCL"]
+	path = plugins/KNLMeansCL
+	url = https://github.com/Khanattila/KNLMeansCL.git
+[submodule "plugins/L-SMASH-Works"]
+	path = plugins/L-SMASH-Works
+	url = https://github.com/AkarinVS/L-SMASH-Works.git
+[submodule "plugins/vapoursynth-mvtools"]
+	path = plugins/vapoursynth-mvtools
+	url = https://github.com/dubhater/vapoursynth-mvtools.git
+[submodule "plugins/vapoursynth-mvtools-sf"]
+	path = plugins/vapoursynth-mvtools-sf
+	url = https://github.com/IFeelBloated/vapoursynth-mvtools-sf.git
+[submodule "plugins/vapoursynth-median"]
+	path = plugins/vapoursynth-median
+	url = https://github.com/dubhater/vapoursynth-median.git
+[submodule "plugins/vapoursynth-nnedi3"]
+	path = plugins/vapoursynth-nnedi3
+	url = https://github.com/dubhater/vapoursynth-nnedi3.git
+[submodule "plugins/VapourSynth-NNEDI3CL"]
+	path = plugins/VapourSynth-NNEDI3CL
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-NNEDI3CL.git
+[submodule "plugins/VapourSynth-ReadMpls"]
+	path = plugins/VapourSynth-ReadMpls
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-ReadMpls.git
+[submodule "plugins/ReduceFlicker"]
+	path = plugins/ReduceFlicker
+	url = https://github.com/AmusementClub/ReduceFlicker.git
+[submodule "plugins/VapourSynth-Retinex"]
+	path = plugins/VapourSynth-Retinex
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Retinex.git
+[submodule "plugins/vapoursynth-sangnom"]
+	path = plugins/vapoursynth-sangnom
+	url = https://github.com/dubhater/vapoursynth-sangnom.git
+[submodule "plugins/VapourSynth-TCanny"]
+	path = plugins/VapourSynth-TCanny
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-TCanny.git
+[submodule "plugins/vapoursynth-tcomb"]
+	path = plugins/vapoursynth-tcomb
+	url = https://github.com/dubhater/vapoursynth-tcomb.git
+[submodule "plugins/vapoursynth-temporalmedian"]
+	path = plugins/vapoursynth-temporalmedian
+	url = https://github.com/dubhater/vapoursynth-temporalmedian.git
+[submodule "plugins/vapoursynth-temporalsoften"]
+	path = plugins/vapoursynth-temporalsoften
+	url = https://github.com/dubhater/vapoursynth-temporalsoften.git
+[submodule "plugins/VapourSynth-TTempSmooth"]
+	path = plugins/VapourSynth-TTempSmooth
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-TTempSmooth.git
+[submodule "plugins/neo_Vague_Denoiser"]
+	path = plugins/neo_Vague_Denoiser
+	url = https://github.com/HomeOfAviSynthPlusEvolution/neo_Vague_Denoiser.git
+[submodule "plugins/VSFilter"]
+	path = plugins/VSFilter
+	url = https://github.com/HomeOfVapourSynthEvolution/VSFilter.git
+[submodule "plugins/VSFilterMod"]
+	path = plugins/VSFilterMod
+	url = https://github.com/sorayuki/VSFilterMod.git
+[submodule "plugins/VapourSynth-W3FDIF"]
+	path = plugins/VapourSynth-W3FDIF
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-W3FDIF.git
+[submodule "plugins/waifu2x-ncnn-vulkan"]
+	path = plugins/waifu2x-ncnn-vulkan
+	url = https://github.com/nihui/waifu2x-ncnn-vulkan.git
+[submodule "plugins/vapoursynth-waifu2x-ncnn-vulkan"]
+	path = plugins/vapoursynth-waifu2x-ncnn-vulkan
+	url = https://github.com/Nlzy/vapoursynth-waifu2x-ncnn-vulkan.git
+[submodule "plugins/vapoursynth-wwxd"]
+	path = plugins/vapoursynth-wwxd
+	url = https://github.com/dubhater/vapoursynth-wwxd.git
+[submodule "plugins/VapourSynth-Yadifmod"]
+	path = plugins/VapourSynth-Yadifmod
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Yadifmod.git
+[submodule "plugins/znedi3"]
+	path = plugins/znedi3
+	url = https://github.com/sekrit-twc/znedi3.git
