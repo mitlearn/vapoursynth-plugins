@@ -11,7 +11,6 @@ all: compile install
 compile: exec_compile
 	$(foreach DIR,$(CONFIG), ./make_config.sh $(DIR) $(PWD);)
 	$(foreach DIR,$(AUTOGEN), ./make_autogen.sh $(DIR) $(PWD);)
-	cd plugins/flash3kyuu_deband/; ./waf configure; ./waf build; cd $(PWD)
 	$(foreach DIR,$(MEASON),  ./make_meason.sh $(DIR) $(PWD);)
 	./make_wwxd.sh $(PWD)
 	cd plugins/waifu2x-ncnn-vulkan/; mkdir build; cd build; cmake ../src; cmake --build . -j 4; cd $(PWD)
@@ -21,6 +20,7 @@ compile: exec_compile
 
 install: exec_install
 	$(foreach DIR,$(CONFIG), ./install_autogen.sh $(DIR) $(PWD);)
+	cd plugins/flash3kyuu_deband/; ./waf install; cd $(PWD)
 	$(foreach DIR,$(MEASON), ./install_meason.sh $(DIR) $(PWD);)
 	$(foreach SCRIPT,$(SCRIPTS), cp $(SCRIPT) /usr/lib/python3.9/;)
 	cp plugins/neo_f3kdb/build/libneo-f3kdb.so /usr/lib/vapoursynth
@@ -31,7 +31,6 @@ install: exec_install
 	cp -r plugins/waifu2x-ncnn-vulkan/models/* /usr/bin/
 	cd plugins/vapoursynth-waifu2x-ncnn-vulkan/build; make install; cd $(PWD)
 	cp plugins/vapoursynth-waifu2x-ncnn-vulkan/build/libvsw2xnvk.so /usr/local/lib/
-
 
 exec_compile:
 	$(shell chmod +x make*.sh)
@@ -54,5 +53,3 @@ clean: exec_clean
 	rm plugins/vapoursynth-wwxd/libwwxd.so
 	cd plugins/waifu2x-ncnn-vulkan/build; make clean; cd $(PWD)
 	cd plugins/vapoursynth-waifu2x-ncnn-vulkan/build; make clean; cd $(PWD)
-
-
