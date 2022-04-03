@@ -148,3 +148,6 @@
 [submodule "plugins/znedi3"]
 	path = plugins/znedi3
 	url = https://github.com/sekrit-twc/znedi3.git
+[submodule "nnedi3_resample"]
+	path = nnedi3_resample
+	url = https://github.com/HomeOfVapourSynthEvolution/nnedi3_resample
