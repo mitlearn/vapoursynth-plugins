@@ -40,3 +40,6 @@
 [submodule "xClean"]
 	path = xClean
 	url = https://github.com/mysteryx93/xClean.git
+[submodule "nnedi3_resample"]
+	path = nnedi3_resample
+	url = https://github.com/HomeOfVapourSynthEvolution/nnedi3_resample
