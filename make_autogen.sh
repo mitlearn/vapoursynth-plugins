@@ -1,6 +1,6 @@
 #!/bin/bash
 cd ${1}
 ./autogen.sh
-./configure --enable-shared
+./configure
 make -j4
 cd ${2}
