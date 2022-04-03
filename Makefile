@@ -15,12 +15,11 @@ compile: exec_compile
 	./make_wwxd.sh $(PWD)
 	cd plugins/waifu2x-ncnn-vulkan/; mkdir build; cd build; cmake ../src; cmake --build . -j 4; cd $(PWD)
 	cd plugins/vapoursynth-waifu2x-ncnn-vulkan/; mkdir build; cd build; cmake .. -DVAPOURSYNTH_HEADER_DIR=/usr/local/include/vapoursynth/; cmake --build . -j 4; cd $(PWD)
-	cd plugins/neo_f3kdb/; mkdir build; cd build; cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/usr; cmake --build . -j 4 cd $(PWD)
-	cd plugins/neo_Vague_Denoiser/; mkdir build; cd build; cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/usr; cmake --build . -j 4; cd $(PWD)
+	cd plugins/neo_f3kdb/; mkdir build; cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/usr; cmake --build . -j 4 cd $(PWD)
+	cd plugins/neo_Vague_Denoiser/; mkdir build; cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/usr; cmake --build . -j 4; cd $(PWD)
 
 install: exec_install
 	$(foreach DIR,$(CONFIG), ./install_autogen.sh $(DIR) $(PWD);)
-	cd plugins/flash3kyuu_deband/; ./waf install; cd $(PWD)
 	$(foreach DIR,$(MEASON), ./install_meason.sh $(DIR) $(PWD);)
 	$(foreach SCRIPT,$(SCRIPTS), cp $(SCRIPT) /usr/lib/python3.9/;)
 	cp plugins/neo_f3kdb/build/libneo-f3kdb.so /usr/lib/vapoursynth
