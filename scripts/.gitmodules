@@ -1,0 +1,42 @@
+[submodule "vapoursynth-adjust"]
+	path = vapoursynth-adjust
+	url = https://github.com/dubhater/vapoursynth-adjust.git
+[submodule "adptvgrnmod"]
+	path = adptvgrnmod
+	url = https://gitlab.com/Ututu/adptvgrnmod.git
+[submodule "VapourSynth-Contra-Sharpen-mod"]
+	path = VapourSynth-Contra-Sharpen-mod
+	url = https://github.com/fdar0536/VapourSynth-Contra-Sharpen-mod.git
+[submodule "fvsfunc"]
+	path = fvsfunc
+	url = https://github.com/Irrational-Encoding-Wizardry/fvsfunc.git
+[submodule "G41Fun"]
+	path = G41Fun
+	url = https://github.com/groucho86/G41Fun.git
+[submodule "havsfunc"]
+	path = havsfunc
+	url = https://github.com/HomeOfVapourSynthEvolution/havsfunc.git
+[submodule "kagefunc"]
+	path = kagefunc
+	url = https://github.com/Irrational-Encoding-Wizardry/kagefunc.git
+[submodule "muvsfunc"]
+	path = muvsfunc
+	url = https://github.com/WolframRhodium/muvsfunc.git
+[submodule "mvsfunc"]
+	path = mvsfunc
+	url = https://github.com/HomeOfVapourSynthEvolution/mvsfunc.git
+[submodule "VapourSynth-script"]
+	path = VapourSynth-script
+	url = https://github.com/mawen1250/VapourSynth-script.git
+[submodule "VS-MaskDetail"]
+	path = VS-MaskDetail
+	url = https://github.com/MonoS/VS-MaskDetail.git
+[submodule "solarcurve"]
+	path = solarcurve
+	url = https://github.com/jack2game/solarcurve.git
+[submodule "vsTAAmbk"]
+	path = vsTAAmbk
+	url = https://github.com/HomeOfVapourSynthEvolution/vsTAAmbk.git
+[submodule "xClean"]
+	path = xClean
+	url = https://github.com/mysteryx93/xClean.git
