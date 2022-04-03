@@ -22,8 +22,6 @@ install: exec_install
 	$(foreach DIR,$(CONFIG), ./install_autogen.sh $(DIR) $(PWD);)
 	$(foreach DIR,$(MEASON), ./install_meason.sh $(DIR) $(PWD);)
 	$(foreach SCRIPT,$(SCRIPTS), cp $(SCRIPT) /usr/lib/python3.9/;)
-	cp plugins/neo_f3kdb/build/libneo-f3kdb.so /usr/lib/vapoursynth
-	cp plugins/neo_Vague_Denoiser/build/libneo-vague-denoiser.so /usr/lib/vapoursynth
 	cp plugins/vapoursynth-wwxd/libwwxd.so /usr/local/lib/
 	# cd plugins/waifu2x-ncnn-vulkan/build; make install; cd $(PWD)
 	# cp plugins/waifu2x-ncnn-vulkan/build/waifu2x-ncnn-vulkan /usr/bin/
