@@ -154,3 +154,36 @@
 [submodule "plugins/vapoursynth-plusplus"]
 	path = plugins/vapoursynth-plusplus
 	url = https://github.com/IFeelBloated/vapoursynth-plusplus.git
+[submodule "vapoursynth-adjust"]
+	path = vapoursynth-adjust
+	url = https://github.com/dubhater/vapoursynth-adjust.git
+[submodule "scripts/vapoursynth-adjust"]
+	path = scripts/vapoursynth-adjust
+	url = https://github.com/dubhater/vapoursynth-adjust.git
+[submodule "scripts/adptvgrnmod"]
+	path = scripts/adptvgrnmod
+	url = https://gitlab.com/Ututu/adptvgrnmod.git
+[submodule "scripts/VapourSynth-Contra-Sharpen-mod"]
+	path = scripts/VapourSynth-Contra-Sharpen-mod
+	url = https://github.com/fdar0536/VapourSynth-Contra-Sharpen-mod.git
+[submodule "scripts/fvsfunc"]
+	path = scripts/fvsfunc
+	url = https://github.com/Irrational-Encoding-Wizardry/fvsfunc.git
+[submodule "scripts/G41Fun"]
+	path = scripts/G41Fun
+	url = https://github.com/groucho86/G41Fun.git
+[submodule "scripts/havsfunc"]
+	path = scripts/havsfunc
+	url = https://github.com/HomeOfVapourSynthEvolution/havsfunc.git
+[submodule "scripts/kagefunc"]
+	path = scripts/kagefunc
+	url = https://github.com/Irrational-Encoding-Wizardry/kagefunc.git
+[submodule "scripts/muvsfunc"]
+	path = scripts/muvsfunc
+	url = https://github.com/WolframRhodium/muvsfunc.git
+[submodule "scripts/mvsfunc"]
+	path = scripts/mvsfunc
+	url = https://github.com/HomeOfVapourSynthEvolution/mvsfunc.git
+[submodule "scripts/nnedi3_resample"]
+	path = scripts/nnedi3_resample
+	url = https://github.com/HomeOfVapourSynthEvolution/nnedi3_resample.git
