@@ -208,3 +208,6 @@
 [submodule "plugins/l-smash"]
 	path = plugins/l-smash
 	url = https://github.com/l-smash/l-smash.git
+[submodule "plugins/vs-imwri"]
+	path = plugins/vs-imwri
+	url = https://github.com/vapoursynth/vs-imwri.git
