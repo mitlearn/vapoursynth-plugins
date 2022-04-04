@@ -199,3 +199,6 @@
 [submodule "scripts/xClean"]
 	path = scripts/xClean
 	url = https://github.com/mysteryx93/xClean.git
+[submodule "scripts/vapoursynth-Hysteria"]
+	path = scripts/vapoursynth-Hysteria
+	url = https://github.com/Irrational-Encoding-Wizardry/vapoursynth-Hysteria
