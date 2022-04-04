@@ -187,3 +187,15 @@
 [submodule "scripts/nnedi3_resample"]
 	path = scripts/nnedi3_resample
 	url = https://github.com/HomeOfVapourSynthEvolution/nnedi3_resample.git
+[submodule "scripts/VS-MaskDetail"]
+	path = scripts/VS-MaskDetail
+	url = https://github.com/MonoS/VS-MaskDetail.git
+[submodule "scripts/solarcurve"]
+	path = scripts/solarcurve
+	url = https://github.com/jack2game/solarcurve.git
+[submodule "scripts/vsTAAmbk"]
+	path = scripts/vsTAAmbk
+	url = https://github.com/HomeOfVapourSynthEvolution/vsTAAmbk.git
+[submodule "scripts/xClean"]
+	path = scripts/xClean
+	url = https://github.com/mysteryx93/xClean.git
