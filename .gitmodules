@@ -205,3 +205,6 @@
 [submodule "plugins/l-smash"]
 	path = plugins/l-smash
 	url = https://github.com/l-smash/l-smash.git
+[submodule "plugins/adaptivegrain"]
+	path = plugins/adaptivegrain
+	url = https://git.kageru.moe/kageru/adaptivegrain.git
