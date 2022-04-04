@@ -202,9 +202,6 @@
 [submodule "scripts/vapoursynth-Hysteria"]
 	path = scripts/vapoursynth-Hysteria
 	url = https://github.com/Irrational-Encoding-Wizardry/vapoursynth-Hysteria
-[submodule "plugins/l-smash"]
-	path = plugins/l-smash
-	url = https://github.com/l-smash/l-smash.git
 [submodule "plugins/adaptivegrain"]
 	path = plugins/adaptivegrain
 	url = https://git.kageru.moe/kageru/adaptivegrain.git
