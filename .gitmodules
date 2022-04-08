@@ -115,9 +115,6 @@
 [submodule "plugins/vapoursynth-temporalmedian"]
 	path = plugins/vapoursynth-temporalmedian
 	url = https://github.com/dubhater/vapoursynth-temporalmedian.git
-[submodule "plugins/vapoursynth-temporalsoften"]
-	path = plugins/vapoursynth-temporalsoften
-	url = https://github.com/dubhater/vapoursynth-temporalsoften.git
 [submodule "plugins/VapourSynth-TTempSmooth"]
 	path = plugins/VapourSynth-TTempSmooth
 	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-TTempSmooth.git
@@ -211,3 +208,9 @@
 [submodule "plugins/vs-imwri"]
 	path = plugins/vs-imwri
 	url = https://github.com/vapoursynth/vs-imwri.git
+[submodule "plugins/vapoursynth-temporalsoften2"]
+	path = plugins/vapoursynth-temporalsoften2
+	url = https://github.com/dubhater/vapoursynth-temporalsoften2.git
+[submodule "plugins/vs-miscfilters-obsolete"]
+	path = plugins/vs-miscfilters-obsolete
+	url = https://github.com/vapoursynth/vs-miscfilters-obsolete.git
