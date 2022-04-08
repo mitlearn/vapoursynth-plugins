@@ -214,3 +214,6 @@
 [submodule "plugins/vs-miscfilters-obsolete"]
 	path = plugins/vs-miscfilters-obsolete
 	url = https://github.com/vapoursynth/vs-miscfilters-obsolete.git
+[submodule "plugins/vs-removegrain"]
+	path = plugins/vs-removegrain
+	url = https://github.com/vapoursynth/vs-removegrain.git
